@@ -1,5 +1,9 @@
+import tkinter as tk
+from tkinter import ttk
+
 def main():
-    pass
+    root = tk.Tk()
+    root.mainloop()
 
 if __name__ == '__main__':
     main()
